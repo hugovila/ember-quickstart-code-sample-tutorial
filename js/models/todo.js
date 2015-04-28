@@ -11,7 +11,7 @@ Todos.Todo.FIXTURES = [
   },
   {
     id: 2,
-    title: '...',
+    title: '...,',
     isCompleted: false
   },
   {
